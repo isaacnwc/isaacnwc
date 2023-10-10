@@ -1,6 +1,6 @@
 # Opa👋🏻!
 Meu nome é Isaac, estou cursando Engenharia de Software e atualmente no 2° semestre! 
-Iniciei meus estudos em Java e pretendo dar continuidade no desenvolvimento da linguagem
+Iniciei com a programação em Java e pretendo dar continuidade no estudo da linguagem
 
 
 
