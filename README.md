@@ -1,6 +1,6 @@
 # Opa👋🏻!
-Meu nome é Isaac, estou cursando Engenharia de Software e atualmente no 3° semestre! 
-Iniciei com Javascript e pretendo dar continuidade no estudo da linguagem
+Meu nome é Isaac, estou cursando Engenharia de Software e atualmente no ° semestre! 
+Iniciei com Java e pretendo dar continuidade no estudo da linguagem
 
 
 
